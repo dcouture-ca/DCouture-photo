@@ -1,0 +1,7 @@
+parameters:
+#    dcouture_media.example.class: Dcouture\MediaBundle\Example
+
+services:
+#    dcouture_media.example:
+#        class: %dcouture_media.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

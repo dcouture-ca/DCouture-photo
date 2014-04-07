@@ -1,0 +1,3 @@
+dcouture_media_homepage:
+    pattern:  /media/{name}
+    defaults: { _controller: DcoutureMediaBundle:Default:index }

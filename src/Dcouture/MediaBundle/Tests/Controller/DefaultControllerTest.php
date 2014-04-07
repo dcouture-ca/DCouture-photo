@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme\HelloBundle\Tests\Controller;
+namespace Dcouture\MediaBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

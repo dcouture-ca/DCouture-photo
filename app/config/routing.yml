@@ -1,2 +1,3 @@
+dcouture_media:
+    resource: "@DcoutureMediaBundle/Resources/config/routing.yml"
     prefix:   /
-
